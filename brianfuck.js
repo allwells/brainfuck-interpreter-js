@@ -1,4 +1,4 @@
-// Brainfuck interpreter by Allwell Onen
+// Brainfuck Interpreter by Harley Jackson
 "use strict"
 function brainfuck(prog) {
     let buf = new Uint8Array(500), pIndex = 0,
